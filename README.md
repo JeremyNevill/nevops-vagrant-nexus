@@ -1,5 +1,5 @@
 # Vagrant Box (Centos/7) with Minimal Nexus 3 Install
-This is a minimal setup of Jenkins for demo purposes by Jeremy Nevill and creates:
+This is a minimal setup of Nexus 3 for demo purposes by Jeremy Nevill and creates:
 * Centos 7 virtual machine
 * Nexus 3 installation port mapped to the host on localhost:8081
 
